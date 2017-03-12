@@ -45,3 +45,8 @@ we use Advanced REST client to test if we can list,add, update and delete the da
 
 ## Delete a player from the list
 
+![delete1](https://cloud.githubusercontent.com/assets/17804084/23837265/57860488-077d-11e7-8d84-f759e3922b32.png)
+![delete2](https://cloud.githubusercontent.com/assets/17804084/23837266/5937c7a8-077d-11e7-857e-e81d0b10a436.png)
+
+# Check mlab
+
