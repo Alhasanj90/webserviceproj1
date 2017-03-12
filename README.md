@@ -20,8 +20,8 @@ As we can see the list of players that been created in mlab to see if we can lis
 http.
 
 # Runing the local server
-
-
+navigate to the folder and we use node and the file that we want to run (app.js).
+![running serv](https://cloud.githubusercontent.com/assets/17804084/23837072/297c5f40-077a-11e7-9b06-4cc391916c9e.png)
 
 
 
