@@ -40,3 +40,8 @@ we use Advanced REST client to test if we can list,add, update and delete the da
 ![add2](https://cloud.githubusercontent.com/assets/17804084/23837190/35a5264c-077c-11e7-9a9a-5be10b12eace.png)
 
 ## Update a player
+![update1](https://cloud.githubusercontent.com/assets/17804084/23837224/ce189422-077c-11e7-8b35-a2035116616b.png)
+![update2](https://cloud.githubusercontent.com/assets/17804084/23837225/cf4a0d4e-077c-11e7-9f3c-7e26b0d950bb.png)
+
+## Delete a player from the list
+
