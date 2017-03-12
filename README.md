@@ -36,3 +36,7 @@ we use Advanced REST client to test if we can list,add, update and delete the da
 
 ## Add A player
 
+![add1](https://cloud.githubusercontent.com/assets/17804084/23837189/34629490-077c-11e7-9775-289c03f53126.png)
+![add2](https://cloud.githubusercontent.com/assets/17804084/23837190/35a5264c-077c-11e7-9a9a-5be10b12eace.png)
+
+## Update a player
