@@ -13,3 +13,11 @@ we used mlab as cloud service that host the data.
 ![mlab1](https://cloud.githubusercontent.com/assets/17804084/23836869/f9544754-0776-11e7-8f36-ad6a8604fc7d.png)
 
 The above image shows the collection that been created which called players.
+
+![mlab2](https://cloud.githubusercontent.com/assets/17804084/23837039/9192d092-0779-11e7-986f-0d0297213e2e.png)
+
+As we can see the list of players that been created in mlab to see if we can list, add, update and delete them through 
+http.
+
+# Runing the local server
+
